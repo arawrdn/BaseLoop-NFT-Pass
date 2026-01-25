@@ -1,2 +1,45 @@
-# BaseLoop-NFT-Pass
-Exclusive NFT collection for early $BLUP holders on Base Network. Only wallets holding BaseLoop tokens can mint.
+# BaseLoop NFT Pass 🎟️
+
+**BaseLoop NFT Pass** is an exclusive on-chain collection for early $BLUP token holders on the **Base Network**.  
+Each NFT represents the identity of early supporters — the "OG Loopers" — who joined the BaseLoop ecosystem in its early phase.
+
+---
+
+## 🧠 Concept
+Only wallets holding at least **200 $BLUP** tokens can mint this NFT.  
+Each wallet can mint a maximum of **2 NFTs**, and the total collection supply is **100 NFTs**.
+
+This contract is deployed natively on **Base**, written in pure Solidity.
+
+---
+
+## ⚙️ Features
+- 🪙 Only BLUP holders (≥200 tokens) can mint.
+- 🎯 Max 2 NFTs per wallet.
+- 🔒 Fixed supply of 100 NFTs.
+- 🧩 Transferable & tradeable on marketplaces (OpenSea, OKX NFT, etc.).
+- 🌐 Customizable metadata URI (IPFS supported).
+
+---
+
+## 🧩 Contract Info
+| Parameter | Value |
+|------------|--------|
+| Name | BaseLoop OG Pass |
+| Symbol | BLOOPASS |
+| Total Supply | 100 |
+| Network | Base |
+| Token Check | [0x2e10ED0647Dc0C162425815896F49f5A2f7Ae8b7](https://basescan.org/token/0x2e10ED0647Dc0C162425815896F49f5A2f7Ae8b7) |
+
+---
+
+## 🚀 Future Utilities
+- ✅ Early access to BaseLoop ecosystem dApps and events.  
+- 💎 Staking bonuses or exclusive NFT upgrades.  
+- 🗳️ DAO voting or governance participation for BLUP holders.  
+- 🌀 Access to closed testing or “Loop Labs” experiments.
+
+---
+
+## 📜 License
+MIT License © 2026 BaseLoop Team
