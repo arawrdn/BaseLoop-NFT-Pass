@@ -1,5 +1,11 @@
 # BaseLoop NFT Pass 🎟️
 
+<img width="894" height="894" alt="1000108262" src="https://github.com/user-attachments/assets/bb78b64e-5e9a-4014-9381-4863e67595a7" />
+<img width="880" height="880" alt="1000108263" src="https://github.com/user-attachments/assets/b478eee2-6b26-46f4-8fe3-8a5fe3e0eb20" />
+<img width="892" height="892" alt="1000108264" src="https://github.com/user-attachments/assets/57059399-3113-4b78-90ad-ad080e710c35" />
+
+---
+
 **BaseLoop NFT Pass** is an exclusive on-chain collection for early $BLUP token holders on the **Base Network**.  
 Each NFT represents the identity of early supporters — the "OG Loopers" — who joined the BaseLoop ecosystem in its early phase.
 
