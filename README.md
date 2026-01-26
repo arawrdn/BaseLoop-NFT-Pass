@@ -33,7 +33,7 @@ This contract is deployed natively on **Base**, written in pure Solidity.
 |------------|--------|
 | Name | BaseLoop OG Pass |
 | Symbol | BLOOPASS |
-| Total Supply | 100 |
+| Total Supply | 666 |
 | Network | Base |
 | Token Check | [0x2e10ED0647Dc0C162425815896F49f5A2f7Ae8b7](https://basescan.org/token/0x2e10ED0647Dc0C162425815896F49f5A2f7Ae8b7) |
 
