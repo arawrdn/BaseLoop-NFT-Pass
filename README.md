@@ -1,3 +1,8 @@
+![Built on Base](https://img.shields.io/badge/Built%20on%20Base-blue?logo=coinbase)
+![Base Ecosystem Project](https://img.shields.io/badge/Base%20Ecosystem%20Project-0052ff?logo=coinbase)
+![Base Verified Contract](https://img.shields.io/badge/Base%20Verified%20Contract-0f67ff?logo=coinbase)
+
+
 # BaseLoop NFT Pass 🎟️
 
 <img width="894" height="894" alt="1000108262" src="https://github.com/user-attachments/assets/bb78b64e-5e9a-4014-9381-4863e67595a7" />
